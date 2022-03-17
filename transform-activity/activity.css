@@ -1,3 +1,10 @@
 main {
-
+  background-color: mediumaquamarine;
+  height: 90vh;
+  width: 100vh;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  transform:rotate(-25deg);
+  transform:skewY(-10deg);
 }
